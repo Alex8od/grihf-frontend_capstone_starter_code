@@ -3,8 +3,6 @@
 This project is part of the **StayHealthy Go Digital Initiative**, aimed at helping patients in remote areas access doctors online.  
 The goal of this front-end project is to create a simple and intuitive interface for booking medical appointments, searching doctors, giving reviews, and managing user profiles.
 
----
-
 ## Features 
 
 - **Online Medical Appointments**  
@@ -22,15 +20,11 @@ The goal of this front-end project is to create a simple and intuitive interface
 - **Easy Navigation**  
   Quick access to Appointments, Reviews, Sign Up, and Login.
 
----
-
 ## Tech Stack
 
 - React  
 - HTML / CSS  
 - JavaScript  
-
----
 
 ## Development Setup
 
